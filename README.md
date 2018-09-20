@@ -1,2 +1,2 @@
 # Gotest
-IBM Blockchain example
+Gotest
